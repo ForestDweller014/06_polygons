@@ -1,1 +1,1 @@
-# 06_Triangles
+# 06_polygons
